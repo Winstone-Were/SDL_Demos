@@ -3,6 +3,7 @@
 
 # But not .cpp
 !*.cpp
+!*Makefile
 # Or directories
 !*/
 !.gitignore
