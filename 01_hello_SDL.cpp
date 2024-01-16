@@ -9,6 +9,12 @@ and may not be redistributed without written permission.*/
 const int SCREEN_WIDTH = 640;
 const int SCREEN_HEIGHT = 480;
 
+/*
+
+One day I'll do actual work on this
+
+*/
+
 int main(int argc, char *args[])
 {
 	// The window we'll be rendering to
